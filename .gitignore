@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.cache/
+*.tar.gz
+
+# Survey data (too large for repo)
+data/processbench/.cache/
+
+# Large result json files
+results/*/processbench_results.json
+results/pilot/pilot_results.json
+
+# Logs
+logs/
+
+# Slurm
+slurm-*.out

@@ -1,0 +1,10 @@
+{
+  "n_total": 3399,
+  "n_error": 2221,
+  "n_correct": 1178,
+  "auroc_true_z": 0.7709625056089848,
+  "auroc_shuffled_z": 0.6004998207418155,
+  "auroc_entropy": 0.6872250450820957,
+  "delta_true_vs_shuffled": 0.1704626848671693,
+  "delta_true_vs_entropy": 0.08373746052688913
+}
