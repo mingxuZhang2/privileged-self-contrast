@@ -1,6 +1,10 @@
-# Privileged Self-Contrast: Zero-Training Error Localization via On-Policy Self-Distillation Signals
+# DEPRECATED — DO NOT CITE THESE RESULTS
 
-## Findings Report — June 9, 2026
+> **This report used oracle error-boundary information in z (steps[:label] + error marker) and is NOT a valid ProcessBench comparison. The F1 42.3 "beating PRMs" claim is invalid due to label leakage. See `findings_0610_nonleaky.md` for corrected results.**
+
+# ~~Privileged Self-Contrast: Zero-Training Error Localization via On-Policy Self-Distillation Signals~~
+
+## ~~Findings Report — June 9, 2026~~ (DEPRECATED)
 
 ---
 

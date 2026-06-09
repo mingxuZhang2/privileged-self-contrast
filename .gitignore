@@ -16,3 +16,4 @@ logs/
 
 # Slurm
 slurm-*.out
+data/math_*_test.parquet
